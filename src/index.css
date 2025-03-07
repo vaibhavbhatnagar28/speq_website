@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In index.css, global.css, or App.css */
+body {
+  background: linear-gradient(to bottom, #fafafa, #e0e0e0); /* Example gradient */
+  color: black; /* Set text color to contrast */
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
